@@ -5,11 +5,11 @@ Nodejs based AppRTC server
 node-apprtc is a port of AppRTC from the Google WebRTC Demo to run entirely in the nodejs environment
 
 ## Demo
-See the demo [here](https://demo-node-apprtc.herokuapp.com)
+See the demo [here](https://snow-advent.herokuapp.com)
 
 ## Setup
 ```
-$ git clone https://github.com/MidEndProject/node-apprtc
+$ git clone https://github.com/isatimur/node-apprtc
 $ cd node-apprtc
 $ npm install
 ```
